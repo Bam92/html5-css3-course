@@ -1,0 +1,39 @@
+body {
+    background-color: gray;
+    margin: 20px;
+    font-family: "Trebuchet MS", Verdana, "Times New Roman", sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+   font-size: 45px;
+}
+
+hr {
+    color: yellowgreen;
+}
+span {
+    font-style: italic;
+}
+h2 {
+    font-size: 25px;
+}
+table {
+    border-collapse: collapse; /* Les bordures du tableau seront collees, c'est jolie*/
+    width: 400px;
+    
+}
+td, th {
+    border: 2px solid green;
+    padding-left: 10px;
+}
+th {
+    background-color: yellowgreen;
+    color: white;
+}
+.tableValue {
+    font-weight: bold;
+}
+
