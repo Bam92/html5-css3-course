@@ -57,8 +57,8 @@ Assignement: Design one's resumé (CV)
         
         Points faibles
         * Bcp de lignes vides non nécessaires
-        - Code pas bien indenté
-        - Noms des id pas explicites
+        + Code pas bien indenté
+        + Noms des id pas explicites
         - la balise center est obsolete, laissez html pour l contenu et css pour la forme
         - tu as mis ulf-8 au lieu de utf-8
         - tu as proposé une police personnalisée sans toutefois utiliser @font-face ou 
@@ -70,5 +70,13 @@ Assignement: Design one's resumé (CV)
 ##Hélène MOLULA
 Il semble que ton travail soit un **copié/collé** de Elysée.
 Prière de suivre les mêmes commentaires en espérant que vous avez quand même codé vous même. Oh! Je viens de me rendre compte en ouvrant votre code source que vous avez exactement repris le même code source que votre amie, ce qui n'est pas **bon**. Ca déroge aux **règles du jeux**!
+
+Il manque votre image
+
+##Jérémie ANGAFAHUNE
+Il semble que ton travail soit un **copié/collé** de Elysée.
+Prière de suivre les mêmes commentaires en espérant que vous avez quand même codé vous même. Oh! Je viens de me rendre compte en ouvrant votre code source que vous avez exactement repris le même code source que votre amie avec les mêmes erreurs, etc., ce qui n'est pas **bon**. Ca déroge aux **règles du jeux**!
+
+Votre image ne s'affiche pas car vous avez mal précisé le chemin
 
 Il manque votre image
