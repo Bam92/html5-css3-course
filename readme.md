@@ -10,14 +10,14 @@ Date: Oct 10 - 12, 2016
 Teacher: Abel L. Mbula (www.abelmbula.url.ph)
 
 Trainees:
-	Carine BOTIKOWAMBI
-    Cédric KWASIYA
-    Elysée MBAMBU 
-    Hélène MOLUTA
-    Irène MSIKA 
-    Jérémie ANGAFUHUNE 
-    Marguerite TOBOTELA 
-    Prudence EBUA 
+	*Carine BOTIKOWAMBI
+    *Cédric KWASIYA
+    *Elysée MBAMBU 
+    *Hélène MOLUTA
+    *Irène MSIKA 
+    *Jérémie ANGAFUHUNE 
+    *Marguerite TOBOTELA 
+    *Prudence EBUA 
 
 Language: fr
 
@@ -40,7 +40,7 @@ Assignement: Design one's resumé (CV)
         - contenu bien structuré
 
         Points faibles
-        - trop de majuscule
+        * trop de majuscule
         - liste numéroté, préférez plutôt liste à puce
         - polyce pas trop sexy
         - un peu de souci de casse et d'orthographe
@@ -56,18 +56,19 @@ Assignement: Design one's resumé (CV)
         - En général bon
         
         Points faibles
-        - Bcp de lignes vides non nécessaires
+        * Bcp de lignes vides non nécessaires
         - Code pas bien indenté
         - Noms des id pas explicites
         - la balise center est obsolete, laissez html pour l contenu et css pour la forme
         - tu as mis ulf-8 au lieu de utf-8
-        - tu as proposé une police personnalisée sans toutefois utilisé @font-face ou pointer vers un serveur externe. Documentez-vous pour ça!
+        - tu as proposé une police personnalisée sans toutefois utiliser @font-face ou 
+        pointer vers un serveur externe. Documentez-vous pour ça!
 
         Recommandations
         - idem
         
 ##Hélène MOLULA
 Il semble que ton travail soit un **copié/collé** de Elysée.
-Prière de suivre les mêmes commentaires en espérant que vous avez quand même codé vous même. Oh! Je viens de me rendre compte en ouvrant votre code source que vous avez exactement repris le même code source que ton amie, ce qui n'est pas **bon**. Ca déroge aux **règles du jeux**!
+Prière de suivre les mêmes commentaires en espérant que vous avez quand même codé vous même. Oh! Je viens de me rendre compte en ouvrant votre code source que vous avez exactement repris le même code source que votre amie, ce qui n'est pas **bon**. Ca déroge aux **règles du jeux**!
 
 Il manque votre image
