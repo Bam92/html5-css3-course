@@ -34,13 +34,33 @@ Assignement: Design one's resumé (CV)
                     *******************************************/
                 
 ##Elysée MBAMBU
-    Présentaion 
+###    Présentaion 
         Poinst forts
         - design général élégant
-        - 
+        - contenu bien structuré
 
         Points faibles
+        - trop de majuscule
+        - liste numéroté, préférez plutôt liste à puce
+        - polyce pas trop sexy
+        - un peu de souci de casse et d'orthographe
+        - l'adresse mail doit etre un lien cliquable
 
         Recommandations
+        - corriger les points faibles
+        
 
 
+###    Code source
+        Poinst forts
+        - En général bon
+        
+        Points faibles
+        - Bcp de lignes vides non nécessaires
+        - Code pas bien indenté
+        - Noms des id pas explicites
+        - la balise center est obsolete, laissez html pour l contenu et css pour la forme
+        - tu as mis ulf-8 au lieu de utf-8
+        - tu as proposé une police personnalisée sans toutefois utilisé @font-face ou pointer vers un serveur externe. Documentez-vous pour ça!
+
+        Recommandations
