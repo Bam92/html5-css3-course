@@ -33,7 +33,14 @@ Assignement: Design one's resumé (CV)
                     FEED BACK
                     *******************************************/
                 
-Elysée MBAMBU
-    
+##Elysée MBAMBU
+    Présentaion 
+        Poinst forts
+        - design général élégant
+        - 
+
+        Points faibles
+
+        Recommandations
 
 
