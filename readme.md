@@ -30,7 +30,7 @@ Hands on exercices: design a simple web page
 Assignement: Design one's resumé (CV)
 
 /****************************
-                    FEED BACK
+#                    FEED BACK
                     *******************************************/
                 
 ##Elysée MBAMBU
@@ -64,3 +64,10 @@ Assignement: Design one's resumé (CV)
         - tu as proposé une police personnalisée sans toutefois utilisé @font-face ou pointer vers un serveur externe. Documentez-vous pour ça!
 
         Recommandations
+        - idem
+        
+##Hélène MOLULA
+Il semble que ton travail soit un **copié/collé** de Elysée.
+Prière de suivre les mêmes commentaires en espérant que vous avez quand même codé vous même. Oh! Je viens de me rendre compte en ouvrant votre code source que vous avez exactement repris le même code source que ton amie, ce qui n'est pas **bon**. Ca déroge aux **règles du jeux**!
+
+Il manque votre image
