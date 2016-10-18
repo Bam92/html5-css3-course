@@ -79,4 +79,4 @@ Prière de suivre les mêmes commentaires en espérant que vous avez quand même
 
 Votre image ne s'affiche pas car vous avez mal précisé le chemin
 
-Il manque votre image
+Les titres **Identité**, **Etude faite**, etc. doivent être au même niveau (<h2>p.ex</h2>)
