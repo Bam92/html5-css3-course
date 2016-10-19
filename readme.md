@@ -92,7 +92,7 @@ Les titres **Identité**, **Etude faite**, etc. doivent être au même niveau (<
         - liste numéroté, préférez plutôt liste à puce
         - polyce pas trop sexy
         - un peu de souci de casse et d'orthographe
-        - l'adresse mail doit etre un lien cliquable
+       
 
         **Recommandations**
         - corriger les points faibles
@@ -116,3 +116,39 @@ Les titres **Identité**, **Etude faite**, etc. doivent être au même niveau (<
         - idem
         
         **Attention** au plagiat! Ou toi ou Elysée, quelqu'un a copié chez l'autre avec le même code source. En plus vous utilisez certaines balises obsolètes (<center> p.ex) ou des attributs html non justifiés ou nécessaires
+        
+        J'ai essayé de bien positionner votre image et de l'agrandir un peu.
+        
+        Lors de la mise en forme avec CSS, il est recommandé d'utiliser un modèle en entonoir c'est-à-dire commencer par les éléments globaux pour finir avec les éléments singuliers ou particulier
+        
+##Margueritte TOBOTELA
+###    Présentaion 
+        **Poinst forts**
+        - contenu bien structuré
+        - casse bien respecté
+
+        **Points faibles**
+        - polyce pas trop sexy
+        - un peu de souci de casse et d'orthographe
+        - ton design pique à l'oeil
+
+        **Recommandations**
+        - corriger les points faibles
+        
+
+
+###    Code source
+        **Poinst forts**
+        - En général bon
+        
+        **Points faibles**
+        * Bcp de lignes vides non nécessaires
+        + Code pas bien indenté
+        + Noms des id pas explicites
+        - la balise center est obsolete, laissez html pour l contenu et css pour la forme
+        - tu as mis ulf-8 au lieu de utf-8
+        - tu as proposé une police personnalisée sans toutefois utiliser @font-face ou 
+        pointer vers un serveur externe. Documentez-vous pour ça!
+
+        **Recommandations**
+        - idem
