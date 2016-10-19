@@ -1,0 +1,183 @@
+html {
+    background:#556455;
+    -webkit-font-smoothing: antialiased;
+}
+
+ol li {
+    list-style:decimal;
+}
+
+body {
+    background: #00ffff;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.04);
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 0;
+}
+
+#header {
+	margin: 0;
+	padding: 0;
+	width: 900px;
+    background:#288646;
+    max-height: 300px;
+}
+#header .section{
+    margin: 0;
+	padding: 0;
+	overflow:hidden;
+}
+
+#logo {
+	float: left;
+	margin-right: 12px;
+	width: 380px;
+	/*height:200px;*/
+	display:inline;
+	overflow:hidden;
+}
+
+#header .section ol {
+	display: inline-block;
+	float: right;
+	margin: 0;
+	overflow:hidden;
+	padding: 114px 0 0;
+}
+#header .section ol li {
+	background: url(2.gif) no-repeat top right;
+	display:inline-block;
+	float: left;
+	list-style: none;
+	margin: 0 10px;
+	padding: 0;
+}
+#header .section ol li a {
+	background: url(2.gif) no-repeat top left;
+	color: #fff;
+	display:inline-block;
+	font-size: 16px;
+	height: 20px;
+	letter-spacing: 0.05em;
+	line-height: 20px;
+	margin: 0;
+	padding: 0 10px;
+	text-align: center;
+	text-decoration: none;
+	text-transform:lowercase;
+}
+#titre {
+    margin:0;
+	padding:0;
+	width: 900px;
+    /*background:red;*/
+    height: 80px;
+}
+#titre h1 {
+	text-align: center;
+    color:black;
+}
+
+#stitre p {
+    color: black;
+}
+#detail {
+    color: black;
+}
+table {
+    border-collapse: collapse;
+    background-color: darkgray
+}
+td {
+    border: 2px solid black;
+}
+table tr moi {
+    width: 300px;
+}
+/*Footer*/
+#footer {
+	background: url(../img/cedrick-footer-bg.png) no-repeat top center;
+	height: 222px;
+	margin: 0;
+	padding: 38px 0 31px;
+}
+#footer div {
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+}
+#footer > p {
+	color: #fff;
+	display: block;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	text-transform: capitalize;
+}
+#footer div div {
+	float: left;
+	padding: 0 0 44px;
+	width: 320px;
+}
+#footer div div h3 {
+	color: #fff;
+	font-family: 'Wellfleet-Regular';
+	font-size: 18px;
+	font-weight: normal;
+	margin: 0;
+	padding: 0 30px 17px;
+	text-transform: uppercase;
+}
+#footer div div p {
+	color: #f8f4e3;
+	line-height: 24px;
+	margin: 0;
+	padding: 0 30px;
+}
+#footer div div p span {
+	display: block;
+	text-transform: capitalize;
+}
+#footer div div p a {
+	color: #f8f4e3;
+	text-decoration: none;
+}
+#footer div div p a:hover {
+	color: #fffac2;
+	text-decoration: underline;
+}
+#footer div div ul {
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+}
+#footer div div ul li {
+	display: block;
+	float: left;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#footer div div ul li a {
+	text-decoration: none;
+}
+#footer div div ul.category li {
+	margin: 0 10px 0 0;
+	padding: 0 0 0 30px;
+	line-height: 24px;
+	width: 120px;
+}
+#footer div div ul.category li a {
+	color: #f8f4e3;
+	text-decoration: none;
+	text-transform: capitalize;
+}
+#footer div div ul.category li a:hover {
+	color: #fffac2;
+	text-decoration: underline;
+}
