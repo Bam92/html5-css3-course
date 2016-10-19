@@ -140,15 +140,15 @@ Les titres **Identité**, **Etude faite**, etc. doivent être au même niveau (<
 ###    Code source
         **Poinst forts**
         - En général bon
+        - Code bien indenté
         
         **Points faibles**
-        * Bcp de lignes vides non nécessaires
-        + Code pas bien indenté
+        * N'oubliez pas que nous sonmmes en html5, la mise en forme avec tableau est obsolète
+        + Que signifie ce code <hr align=center/>? 
         + Noms des id pas explicites
         - la balise center est obsolete, laissez html pour l contenu et css pour la forme
-        - tu as mis ulf-8 au lieu de utf-8
-        - tu as proposé une police personnalisée sans toutefois utiliser @font-face ou 
-        pointer vers un serveur externe. Documentez-vous pour ça!
+        - vous avez oublié mail devant l'adresse mail
+        - Préférez la propriété css list-style-type à l'attribut type de l'élément ul
 
         **Recommandations**
         - idem
