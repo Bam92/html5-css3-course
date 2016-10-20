@@ -207,3 +207,25 @@ Les titres **Identité**, **Etude faite**, etc. doivent être au même niveau (\
         
         **Recommandations**
         - Corriger les points faibles
+        
+# Remarques générals
+
+Je suis très fier de vous car en si peu de temps vous avez dû produire votre CV en HTML. Bravo!
+
+J'ai plein espoir qu'avec le temps vous ferez mieux et deveindrez de **bons intégrateurs web**
+
+## Ce qu'il vous reste à faire
++ Bien se servir de HTML5
++ Lire le cours sur la mise en page de site
++ Lire le cours sur le formulaire
++ Participer au forums sur HTML5/CSS3: [www.openclassrooms.com] (https://www.openclassrooms.com), 
+[www.alsacreations.com] (https://www.alsacreations.com),  [www.developpez.com] (https://www.developpez.com)
++ Faire la veille technologique (oui, les technos évoluent vite)
+
+## Ce qu'il ne faut pas faire
++ Oublier ou mal indenter/commenter le code
++ Utiliser **table** pour la mise en page
++ Utiliser les éléments de HTML 4 ou inférieurs
++ Utiliser des propriétés ou tags non nécessaires
+
+N'hésitez surtout pas à me poser toutes vos questions!
