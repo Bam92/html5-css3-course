@@ -10,14 +10,14 @@ Date: Oct 10 - 12, 2016
 Teacher: Abel L. Mbula (www.abelmbula.url.ph)
 
 Trainees:
-	* Carine BOTIKOWAMBI
-    * Cédric KWASIYA
-    * Elysée MBAMBU 
-    * Hélène MOLUTA
-    * Irène MSIKA 
-    * Jérémie ANGAFUHUNE 
-    * Marguerite TOBOTELA 
-    * Prudence EBUA 
+	+ Carine BOTIKOWAMBI
+    + Cédric KWASIYA
+    + Elysée MBAMBU 
+    + Hélène MOLUTA
+    + Irène MSIKA 
+    + Jérémie ANGAFUHUNE 
+    + Marguerite TOBOTELA 
+    + Prudence EBUA 
 
 Language: fr
 
