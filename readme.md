@@ -176,7 +176,9 @@ Les titres **Identité**, **Etude faite**, etc. doivent être au même niveau (\
         + Attention! Dans ton footer il y a trop de div non nécessaires 
         (trop de div tuent les div dit-on)
         + Pourquoi h3 englobe tout le tableau? Et aussi il est bon de faire sa mise en forme avec CSS
-        + Ce n'est pas une bonne pratique d'avoir un div avec id titre pour un titre h1, h1 à lui seul suffi
+        + Ce n'est pas une bonne pratique d'avoir un div avec id titre pour un titre h1, h1 à lui seul suffit
+        + Attention au **noms des fichiers**, ils doivent etre simples et explicites 
+        (tjrs suivre les bonnes pratiques en la matiere)
 
         **Recommandations**
-        - idem
+        - Corriger les points faibles
