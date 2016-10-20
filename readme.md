@@ -182,3 +182,28 @@ Les titres **Identité**, **Etude faite**, etc. doivent être au même niveau (\
 
         **Recommandations**
         - Corriger les points faibles
+        
+##Prudence EBUA
+###    Présentaion 
+        **Poinst forts**
+        - pas de css
+
+        **Points faibles**
+        -
+
+        **Recommandations**      
+
+
+###    Code source
+        **Poinst forts**
+        - En général bon
+        - Code bien indenté
+        
+        **Points faibles**
+        * Balise ul non fermé
+        + Evite la balise center (html > **fond** et css > **forme**)
+        + Préférez la propriété css list-style-type à l'attribut type de l'élément ul
+        + Balise html non fermé
+        
+        **Recommandations**
+        - Corriger les points faibles
