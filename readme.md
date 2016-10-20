@@ -29,9 +29,8 @@ Hands on exercices: design a simple web page
 
 Assignement: Design one's resumé (CV)
 
-/****************************
 #                    FEED BACK
-                    *******************************************/
+                    
                 
 ##Elysée MBAMBU
 ###    Présentaion 
@@ -79,7 +78,7 @@ Prière de suivre les mêmes commentaires en espérant que vous avez quand même
 
 Votre image ne s'affiche pas car vous avez mal précisé le chemin
 
-Les titres **Identité**, **Etude faite**, etc. doivent être au même niveau (<h2>p.ex</h2>)
+Les titres **Identité**, **Etude faite**, etc. doivent être au même niveau (\<h2>p.ex</h2>)
 
 ##Carine BOTIKOWAMBI
 ###    Présentaion 
@@ -149,6 +148,35 @@ Les titres **Identité**, **Etude faite**, etc. doivent être au même niveau (<
         - la balise center est obsolete, laissez html pour l contenu et css pour la forme
         - vous avez oublié mail devant l'adresse mail
         - Préférez la propriété css list-style-type à l'attribut type de l'élément ul
+
+        **Recommandations**
+        - idem
+        
+##Cedrick KWASIA
+###    Présentaion 
+        **Poinst forts**
+        - contenu bien structuré
+        - casse bien respecté
+        - bravo, site avec bcp de page
+
+        **Points faibles**
+        RAS
+
+        **Recommandations**      
+
+
+###    Code source
+        **Poinst forts**
+        - En général bon
+        - Code bien indenté et commenté
+        
+        **Points faibles**
+        * Evite les majuscules sur les noms des balises
+        + Evite la balise center (html > **fond** et css > **forme**)
+        + Attention! Dans ton footer il y a trop de div non nécessaires 
+        (trop de div tuent les div dit-on)
+        + Pourquoi h3 englobe tout le tableau? Et aussi il est bon de faire sa mise en forme avec CSS
+        + Ce n'est pas une bonne pratique d'avoir un div avec id titre pour un titre h1, h1 à lui seul suffi
 
         **Recommandations**
         - idem

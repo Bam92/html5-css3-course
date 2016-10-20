@@ -49,7 +49,7 @@ body {
 	padding: 114px 0 0;
 }
 #header .section ol li {
-	background: url(2.gif) no-repeat top right;
+	background: url(../img/cedrick-header-bg.gif) no-repeat top right;
 	display:inline-block;
 	float: left;
 	list-style: none;
@@ -57,7 +57,7 @@ body {
 	padding: 0;
 }
 #header .section ol li a {
-	background: url(2.gif) no-repeat top left;
+	background: url(../img/cedrick-header-bg.gif) no-repeat top left;
 	color: #fff;
 	display:inline-block;
 	font-size: 16px;
