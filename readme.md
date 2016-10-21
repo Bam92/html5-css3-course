@@ -11,61 +11,61 @@ Teacher: [Abel L. Mbula] (www.abelmbula.url.ph)
 
 Trainees:
 
-	+ Carine BOTIKOWAMBI
-    + Cédric KWASIYA
-    + Elysée MBAMBU 
-    + Hélène MOLUTA
-    + Irène MSIKA 
-    + Jérémie ANGAFUHUNE 
-    + Marguerite TOBOTELA 
-    + Prudence EBUA 
++ Carine BOTIKOWAMBI
++ Cédric KWASIYA
++ Elysée MBAMBU 
++ Hélène MOLUTA
++ Irène MSIKA 
++ Jérémie ANGAFUHUNE 
++ Marguerite TOBOTELA 
++ Prudence EBUA 
 
 Language: fr
 
 Programm: [slideshare link] (http://fr.slideshare.net/Bam92/cours-dintroduction-aux-html5-css3)
 
 Hands on exercices: design a simple web page
-	in HTML first
-	then add style with CSS3
+1. in HTML first
+2. then add style with CSS3
 
-Assignement: Design one's resumé (CV). Students works can be found in the folder named **templates** (html), **css** (style) and **img** (images)
+Assignement: Design one's resumé (CV). Students works can be found in the folders named **templates** (html), **css** (style) and **img** (images)
 
-#                    FEED BACK
+#       FEED BACK
                     
                 
 ##Elysée MBAMBU
-###    Présentaion 
-        Poinst forts
-        - design général élégant
-        - contenu bien structuré
+### Présentaion 
+**Poinst forts**
++ design général élégant
++ contenu bien structuré
 
-        Points faibles
-        * trop de majuscule
-        - liste numéroté, préférez plutôt liste à puce
-        - polyce pas trop sexy
-        - un peu de souci de casse et d'orthographe
-        - l'adresse mail doit etre un lien cliquable
+**Points faibles**
+* trop de majuscules
++ liste numéroté, préférez plutôt liste à puce
++ polyce pas trop sexy
++ un peu de souci de casse et d'orthographe
++ l'adresse mail doit etre un lien cliquable
 
-        Recommandations
-        - corriger les points faibles
-        
+**Recommandations**
++ corriger les points faibles
+
 
 
 ###    Code source
-        Poinst forts
-        - En général bon
+**Poinst forts**
++ En général bon
         
-        Points faibles
-        * Bcp de lignes vides non nécessaires
-        + Code pas bien indenté
-        + Noms des id pas explicites
-        - la balise center est obsolete, laissez html pour l contenu et css pour la forme
-        - tu as mis ulf-8 au lieu de utf-8
-        - tu as proposé une police personnalisée sans toutefois utiliser @font-face ou 
-        pointer vers un serveur externe. Documentez-vous pour ça!
+**Points faibles**
+* Bcp de lignes vides non nécessaires
++ Code pas bien indenté
++ Noms des id pas explicites
++ La balise center est obsolete, laissez html pour l contenu et css pour la forme
++ Tu as mis ulf-8 au lieu de utf-8
++ Tu as proposé une police personnalisée sans toutefois utiliser @font-face ou 
++ Pointer vers un serveur externe. Documentez-vous pour ça!
 
-        Recommandations
-        - idem
+**Recommandations**
++ idem
         
 ##Hélène MOLULA
 Il semble que ton travail soit un **copié/collé** de Elysée.
@@ -90,129 +90,126 @@ Les titres **Identité**, **Etudes faites**, etc. doivent être au même niveau 
 + contenu bien structuré
 
 **Points faibles**
-        * trop de majuscule
-        - liste numéroté, préférez plutôt liste à puce
-        - polyce pas trop sexy
-        - un peu de souci de casse et d'orthographe
+* trop de majuscules
++ liste numéroté, préférez plutôt liste à puce
++ police pas trop sexy
++ un peu de souci de casse et d'orthographe
        
-
-        **Recommandations**
-        - corriger les points faibles
+**Recommandations**
++ corriger les points faibles
         
-
-
 ###    Code source
-        **Poinst forts**
-        - En général bon
-        
-        **Points faibles**
-        * Bcp de lignes vides non nécessaires
-        + Code pas bien indenté
-        + Noms des id pas explicites
-        - la balise center est obsolete, laissez html pour l contenu et css pour la forme
-        - tu as mis ulf-8 au lieu de utf-8
-        - tu as proposé une police personnalisée sans toutefois utiliser @font-face ou 
-        pointer vers un serveur externe. Documentez-vous pour ça!
+**Poinst forts**
++ En général bon
 
-        **Recommandations**
-        - idem
-        
-        **Attention** au plagiat! Ou toi ou Elysée, quelqu'un a copié chez l'autre avec le même code source. 
-        En plus vous utilisez certaines balises obsolètes (<center> p.ex) ou des attributs html non justifiés ou nécessaires
-        
-        J'ai essayé de bien positionner votre image et de l'agrandir un peu.
-        
-        Lors de la mise en forme avec CSS, il est recommandé d'utiliser un modèle en entonoir 
-        c'est-à-dire commencer par les éléments globaux pour finir avec les éléments singuliers ou particulier
-        
+**Points faibles**
+* Bcp de lignes vides non nécessaires
++ Code pas bien indenté
++ Noms des id pas explicites
++ la balise center est obsolete, laissez html pour l contenu et css pour la forme
++ tu as mis ulf-8 au lieu de utf-8
++ tu as proposé une police personnalisée sans toutefois utiliser @font-face ou 
+pointer vers un serveur externe. Documentez-vous pour ça!
+
+**Recommandations**
++ idem
+
+**Attention** au plagiat! Ou toi ou Elysée, quelqu'un a copié chez l'autre avec le même code source. 
+En plus vous utilisez certaines balises obsolètes (\<center> p.ex) ou des attributs html non justifiés ou nécessaires
+
+J'ai essayé de bien positionner votre image et de l'agrandir un peu.
+
+Lors de la mise en forme avec CSS, il est recommandé d'utiliser un modèle en entonoir 
+c'est-à-dire commencer par les éléments globaux pour finir avec les éléments singuliers ou particulier
+
 ##Margueritte TOBOTELA
 ###    Présentaion 
-        **Poinst forts**
-        - contenu bien structuré
-        - casse bien respecté
+**Poinst forts**
++ contenu bien structuré
++ casse bien respecté
 
-        **Points faibles**
-        - polyce pas trop sexy
-        - un peu de souci de casse et d'orthographe
-        - ton design pique à l'oeil
+**Points faibles**
++ polyce pas trop sexy
++ un peu de souci de casse et d'orthographe
++ ton design pique à l'oeil
 
-        **Recommandations**
-        - corriger les points faibles
+**Recommandations**
++ corriger les points faibles
         
 
 
 ###    Code source
-        **Poinst forts**
-        - En général bon
-        - Code bien indenté
-        
-        **Points faibles**
-        * N'oubliez pas que nous sonmmes en html5, la mise en forme avec tableau est obsolète
-        + Que signifie ce code <hr align=center/>? 
-        + Noms des id pas explicites
-        - la balise center est obsolete, laissez html pour l contenu et css pour la forme
-        - vous avez oublié mail devant l'adresse mail
-        - Préférez la propriété css list-style-type à l'attribut type de l'élément ul
+**Poinst forts**
++ En général bon
++ Code bien indenté
 
-        **Recommandations**
-        - idem
+**Points faibles**
+* N'oubliez pas que nous sonmmes en html5, la mise en forme avec tableau est obsolète
++ Que signifie ce code \<hr align=center/>? 
++ Noms des id pas explicites
++ la balise center est obsolete, laissez html pour le contenu et css pour la forme
++ vous avez oublié mail devant l'adresse mail
++ Préférez la propriété css list-style-type à l'attribut type de l'élément ul
+
+**Recommandations**
++ idem
         
 ##Cedrick KWASIA
 ###    Présentaion 
-        **Poinst forts**
-        - contenu bien structuré
-        - casse bien respecté
-        - bravo, site avec bcp de page
+**Poinst forts**
++ contenu bien structuré
++ casse bien respecté
++ bravo, site avec bcp de page
 
-        **Points faibles**
-        RAS
+**Points faibles**
+RAS
 
-        **Recommandations**      
+**Recommandations**      
 
 
 ###    Code source
-        **Poinst forts**
-        - En général bon
-        - Code bien indenté et commenté
-        
-        **Points faibles**
-        * Evite les majuscules sur les noms des balises
-        + Evite la balise center (html > **fond** et css > **forme**)
-        + Attention! Dans ton footer il y a trop de div non nécessaires 
-        (trop de div tuent les div dit-on)
-        + Pourquoi h3 englobe tout le tableau? Et aussi il est bon de faire sa mise en forme avec CSS
-        + Ce n'est pas une bonne pratique d'avoir un div avec id titre pour un titre h1, h1 à lui seul suffit
-        + Attention au **noms des fichiers**, ils doivent etre simples et explicites 
-        (tjrs suivre les bonnes pratiques en la matiere)
+**Poinst forts**
++ En général bon
++ Code bien indenté et commenté
 
-        **Recommandations**
-        - Corriger les points faibles
+**Points faibles**
+* Evite les majuscules sur les noms des balises
++ Evite la balise center (html > **fond** et css > **forme**)
++ Attention! Dans ton footer il y a trop de div non nécessaires 
+(trop de div tuent les div dit-on)
++ Pourquoi h3 englobe tout le tableau? Et aussi il est bon de faire sa mise en forme avec CSS
++ Ce n'est pas une bonne pratique d'avoir un div avec id titre pour un titre h1, h1 à lui seul suffit
++ Attention au **noms des fichiers**, ils doivent etre simples et explicites 
+(tjrs suivre les bonnes pratiques en la matiere)
+
+**Recommandations**
++ Corriger les points faibles
         
 ##Prudence EBUA
 ###    Présentaion 
 pas de css
-        **Poinst forts**
-        
 
-        **Points faibles**
-        -
+**Poinst forts**
 
-        **Recommandations**      
 
+**Points faibles**
++
+
+**Recommandations**      
 
 ###    Code source
-        **Poinst forts**
-        - En général bon
-        - Code bien indenté
-        
-        **Points faibles**
-        * Balise ul non fermé
-        + Evite la balise center (html > **fond** et css > **forme**)
-        + Préférez la propriété css list-style-type à l'attribut type de l'élément ul
-        + Balise html non fermé
-        
-        **Recommandations**
-        - Corriger les points faibles
+**Poinst forts**
++ En général bon
++ Code bien indenté
+
+**Points faibles**
+* Balise ul non fermé
++ Evite la balise center (html > **fond** et css > **forme**)
++ Préférez la propriété css **list-style-type** à l'attribut **type** de l'élément ul
++ Balise html non fermé
+
+**Recommandations**
++ Corriger les points faibles
         
 # Remarques générales
 
