@@ -1,15 +1,16 @@
 Welcome!
 
-This is a quick html5/css3 training taught to trainees from different CS instutions @University of Kisangani, CS Dpt (www.unikis.ac.cd). This repo will help my students to improve there skills since it'll contain my feed backs for there own works.
-You'll find usefull info about this training in this GitHub repo such as links, student's names, ect.
+This is a quick html5/css3 training taught to trainees from different CS instutions @ [University of Kisangani, CS Dpt] (www.unikis.ac.cd). This repo will help my students to improve there skills since it'll contain my feed backs for there own works.
+You'll find usefull info about this training such as links, student's names, ect.
 
 Fell free to pull request if there is any issue
 
 Date: Oct 10 - 12, 2016
 
-Teacher: Abel L. Mbula (www.abelmbula.url.ph)
+Teacher: [Abel L. Mbula] (www.abelmbula.url.ph)
 
 Trainees:
+
 	+ Carine BOTIKOWAMBI
     + Cédric KWASIYA
     + Elysée MBAMBU 
@@ -25,9 +26,9 @@ Programm: [slideshare link] (http://fr.slideshare.net/Bam92/cours-dintroduction-
 
 Hands on exercices: design a simple web page
 	in HTML first
-	the add style with CSS3
+	then add style with CSS3
 
-Assignement: Design one's resumé (CV)
+Assignement: Design one's resumé (CV). Students works can be found in the folder named **templates** (html), **css** (style) and **img** (images)
 
 #                    FEED BACK
                     
@@ -78,15 +79,17 @@ Prière de suivre les mêmes commentaires en espérant que vous avez quand même
 
 Votre image ne s'affiche pas car vous avez mal précisé le chemin
 
-Les titres **Identité**, **Etude faite**, etc. doivent être au même niveau (\<h2>p.ex</h2>)
+Les titres **Identité**, **Etudes faites**, etc. doivent être au même niveau (\<h2>p.ex)
 
 ##Carine BOTIKOWAMBI
 ###    Présentaion 
-        **Poinst forts**
-        - design général élégant
-        - contenu bien structuré
 
-        **Points faibles**
+**Poinst forts**
+
++ design général élégant
++ contenu bien structuré
+
+**Points faibles**
         * trop de majuscule
         - liste numéroté, préférez plutôt liste à puce
         - polyce pas trop sexy
@@ -114,11 +117,13 @@ Les titres **Identité**, **Etude faite**, etc. doivent être au même niveau (\
         **Recommandations**
         - idem
         
-        **Attention** au plagiat! Ou toi ou Elysée, quelqu'un a copié chez l'autre avec le même code source. En plus vous utilisez certaines balises obsolètes (<center> p.ex) ou des attributs html non justifiés ou nécessaires
+        **Attention** au plagiat! Ou toi ou Elysée, quelqu'un a copié chez l'autre avec le même code source. 
+        En plus vous utilisez certaines balises obsolètes (<center> p.ex) ou des attributs html non justifiés ou nécessaires
         
         J'ai essayé de bien positionner votre image et de l'agrandir un peu.
         
-        Lors de la mise en forme avec CSS, il est recommandé d'utiliser un modèle en entonoir c'est-à-dire commencer par les éléments globaux pour finir avec les éléments singuliers ou particulier
+        Lors de la mise en forme avec CSS, il est recommandé d'utiliser un modèle en entonoir 
+        c'est-à-dire commencer par les éléments globaux pour finir avec les éléments singuliers ou particulier
         
 ##Margueritte TOBOTELA
 ###    Présentaion 
@@ -185,8 +190,9 @@ Les titres **Identité**, **Etude faite**, etc. doivent être au même niveau (\
         
 ##Prudence EBUA
 ###    Présentaion 
+pas de css
         **Poinst forts**
-        - pas de css
+        
 
         **Points faibles**
         -
