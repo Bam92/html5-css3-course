@@ -5,7 +5,7 @@ You'll find usefull info about this training such as links, student's names, ect
 
 Fell free to pull request if there is any issue
 
-Date: Oct 10 - 12, 2016
+Date: Oct 10 - 13, 2016
 
 Teacher: [Abel L. Mbula] (www.abelmbula.url.ph)
 
@@ -214,7 +214,7 @@ pas de css
         **Recommandations**
         - Corriger les points faibles
         
-# Remarques générals
+# Remarques générales
 
 Je suis très fier de vous car en si peu de temps vous avez dû produire votre CV en HTML. Bravo!
 
