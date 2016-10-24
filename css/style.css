@@ -37,3 +37,20 @@ th {
     font-weight: bold;
 }
 
+.etudiant {
+    list-style-type: none;
+    display: inline-block;
+    width: 120px;
+    border: 2px solid green;
+    margin-right: 25px;
+    text-align: center;
+    background-color: yellowgreen
+}
+.etudiant a {
+    text-decoration: none;
+    font-size: 1.3em;
+    color: white;
+}
+.etudiant a:hover {
+    font-weight: bold;
+}
