@@ -209,7 +209,7 @@ pas de css
 **Recommandations**
 + Corriger les points faibles
 
-##Elysée MBAMBU
+##Irène MASIKA
 ### Présentaion 
 **Poinst forts**
 + design général élégant
@@ -217,7 +217,7 @@ pas de css
 
 **Points faibles**
 
-RAS
++ Un peu de fautes d'orthographe (d'inattention)
 
 **Recommandations**
 
@@ -228,11 +228,12 @@ RAS
 
 **Points faibles**
 
-RAS
++ Balise div avec id flotte n'est justifié (supprmé)
 
 **Recommandations**
 
 + Je te propose la balise \<adress> pour votre adresse
++ Je te propose la balise \<table> pour les langues
 
 
 # Remarques générales

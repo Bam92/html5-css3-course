@@ -24,6 +24,8 @@ body{
 img{
     max-width: 200px;
     text-align: right;
+    margin-top: 40px;
+    margin-right: 25px;
 }
 #flotte{
     float: right;
@@ -42,5 +44,14 @@ p{
     font-family: serif;
     font-size: 20px;
 }
-    
+
+table {
+    border-collapse: collapse;
+    border: 2px solid cornflowerblue;
+}
+tr, td {
+    border-collapse: collapse;
+    border: 2px solid cornflowerblue;
+    width: 500px;
+}
 
