@@ -49,8 +49,6 @@ Assignement: Design one's resumé (CV). Students works can be found in the folde
 **Recommandations**
 + corriger les points faibles
 
-
-
 ###    Code source
 **Poinst forts**
 + En général bon
@@ -210,7 +208,33 @@ pas de css
 
 **Recommandations**
 + Corriger les points faibles
-        
+
+##Elysée MBAMBU
+### Présentaion 
+**Poinst forts**
++ design général élégant
++ contenu bien structuré
+
+**Points faibles**
+
+RAS
+
+**Recommandations**
+
+###    Code source
+**Poinst forts**
++ En général bon
++ Code bien indenté
+
+**Points faibles**
+
+RAS
+
+**Recommandations**
+
++ Je te propose la balise \<adress> pour votre adresse
+
+
 # Remarques générales
 
 Je suis très fier de vous car en si peu de temps vous avez dû produire votre CV en HTML. Bravo!

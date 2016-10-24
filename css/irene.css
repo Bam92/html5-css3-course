@@ -1,0 +1,46 @@
+h1{
+    font-size: 35px;
+    background-color: cornflowerblue;
+    text-align: center;
+    
+}
+h2{
+    background-color: cornflowerblue;
+    text-align: left;
+}
+li{
+    font-family: 'lucida calligraphy';
+}
+h1{
+    float: center;
+}
+body{
+    border: 6px blue ridge;
+    margin: auto;
+    max-width: 800px;
+    background-color: darkkhaki;
+    
+}
+img{
+    max-width: 200px;
+    text-align: right;
+}
+#flotte{
+    float: right;
+}
+span{
+    font-weight: bold;
+}
+html{
+    background: #444422; 
+}
+#texte{
+    float: right;
+    font-family: fantasy;
+}
+p{
+    font-family: serif;
+    font-size: 20px;
+}
+    
+
