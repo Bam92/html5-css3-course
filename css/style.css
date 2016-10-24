@@ -53,4 +53,9 @@ th {
 }
 .etudiant a:hover {
     font-weight: bold;
+    color: yellowgreen;
+    
+}
+.etudiant:hover{
+    background-color: white;
 }
